@@ -18,7 +18,7 @@ A new credit card company operating in the western United States wants to positi
 ---
 
 ## Dataset  
-The dataset contains credit card transactions with:
+The dataset (https://www.kaggle.com/datasets/dhruvb2028/credit-card-fraud-dataset) contains credit card transactions with:
 
 - Customer details (age, location, etc.)  
 - Transaction details (amount, merchant, category)  
